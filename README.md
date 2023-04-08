@@ -110,10 +110,10 @@
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
+![trungquandev-quotes](https://user-images.githubusercontent.com/130246199/230738217-ffbc359a-31c5-4a25-9b25-f98171e8b124.svg)
+
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Ban Muoi" />
 </a>
-![trungquandev-quotes](https://user-images.githubusercontent.com/130246199/230738217-ffbc359a-31c5-4a25-9b25-f98171e8b124.svg)
-
 ![1195797](https://user-images.githubusercontent.com/130246199/230738221-3fd11f58-5ae1-4deb-9c99-4284e29978d5.jpg)
