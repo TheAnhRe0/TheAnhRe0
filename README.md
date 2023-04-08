@@ -3,7 +3,6 @@
 ![trungquandev](https://user-images.githubusercontent.com/130246199/230738214-9a2ec9a1-2727-48df-a062-301c8276a8e4.svg)
 
 
-<!-- -->[Uploading images…]()
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
@@ -116,4 +115,5 @@
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Ban Muoi" />
 </a>
 ![trungquandev-quotes](https://user-images.githubusercontent.com/130246199/230738217-ffbc359a-31c5-4a25-9b25-f98171e8b124.svg)
+
 ![1195797](https://user-images.githubusercontent.com/130246199/230738221-3fd11f58-5ae1-4deb-9c99-4284e29978d5.jpg)
