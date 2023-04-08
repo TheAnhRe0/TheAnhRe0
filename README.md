@@ -110,10 +110,6 @@
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<img src="https://user-images.githubusercontent.com/130246199/230738217-ffbc359a-31c5-4a25-9b25-f98171e8b124.svg)" alt="Ban Muoi" />
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Ban Muoi" />
