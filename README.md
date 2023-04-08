@@ -105,7 +105,7 @@
   <strong>📧 FB cá nhân <a href="https://www.facebook.com/PhanTheAnh.19" target="_top">Phan Thế Anh</a></strong>
 </p>
 <a href="https://translate.google.com.vn/" target="_blank">
-  <img src="images/[1195797.jpg](https://user-images.githubusercontent.com/130246199/230738221-3fd11f58-5ae1-4deb-9c99-4284e29978d5.jpg)" width="1200" alt="Ban Muoi" />
+  <img src="https://user-images.githubusercontent.com/130246199/230738221-3fd11f58-5ae1-4deb-9c99-4284e29978d5.jpg)" width="1200" alt="Ban Muoi" />
 </a>
 
 <br>
@@ -116,4 +116,6 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="Ban Muoi" />
 </a>
+
+
 ![1195797](https://user-images.githubusercontent.com/130246199/230738221-3fd11f58-5ae1-4deb-9c99-4284e29978d5.jpg)
