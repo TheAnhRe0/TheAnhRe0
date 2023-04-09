@@ -5,10 +5,6 @@
 
 <a href="#" target="_blank">
 </a>
-
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="450045" src="https://github-readme-stats.vercel.app/api?username=FanTheAnh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
